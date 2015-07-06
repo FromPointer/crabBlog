@@ -70,6 +70,9 @@ This blogs is originally from [tangqiaoboy](https://github.com/tangqiaoboy/iOSBl
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
+[Code4App](http://code4app.com) | <http://code4app.com>
+[CocoaChina](http://www.cocoachina.com/) | <http://www.cocoachina.com/>
+[念茜姐姐的blog](http://nianxi.net/) | <http://nianxi.net/>
 
 
 
@@ -83,3 +86,16 @@ This blogs is originally from [tangqiaoboy](https://github.com/tangqiaoboy/iOSBl
 7. [Bartosz Ciechanowski](http://ciechanowski.me)
 8. [Big Nerd Ranch Blog](http://blog.bignerdranch.com)
 9. [Nils Hayat](http://nilsou.com)
+10. [iOSDesignCode](https://designcode.io/)
+11. [StackOverflow](http://stackoverflow.com/)
+
+
+
+## iOS 进阶书籍
+进价书单：
+1.《Effective Objective-C 2.0》(必看)
+2.《Objective-C高级编程 iOS与OS X多线程和内存管理》
+3.《iOS开发进阶》
+4.《iOS Auto Layout 开发秘籍》
+
+[iOS git Memo](http://github.ibireme.com/github/list/ios/)
